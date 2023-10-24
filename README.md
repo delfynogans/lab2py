@@ -14,8 +14,8 @@ Print("Hello")
 ```
 Print("Saya sedang belajar python")
 ```
-### maka outputnya!
-[Alt text](image-2.png)
+### maka outputnya
+![Alt text](image-2.png)
 
 ## Latihan 2
 
